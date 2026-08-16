@@ -4,8 +4,9 @@ An interactive study app for the Salesforce Certified Platform Administrator II 
 
 ## Included
 
-- Seven topic tests aligned to the official exam domains
-- One 60-question weighted mock exam with a 105-minute timer
+- 200+ original questions across all official exam objectives
+- Seven topic tests and three distinct 60-question weighted mocks
+- Single-answer and multi-select formats with a 105-minute timer
 - Immediate answer feedback and explanations
 - Question flags, navigation, scoring, and saved attempt history
 
